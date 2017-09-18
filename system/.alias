@@ -1,0 +1,10 @@
+alias reload!='source ~/.zshrc'
+
+# git
+alias g='git'
+alias gs='git status'
+alias gpl='git pull'
+
+# furgo
+alias fweb='~/code/furgo/web/bin/rails s -b 0.0.0.0'
+alias fapi='~/code/furgo/api/bin/rails s -p 4000'
